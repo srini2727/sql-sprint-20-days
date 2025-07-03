@@ -1,4 +1,4 @@
--- Q101
+-- Q1
 CREATE TABLE Employee (
     EmployeeID INT,
     Name VARCHAR(50),
@@ -13,7 +13,7 @@ INSERT INTO Employee VALUES
 (4, 'Daisy', 'HR Manager', 'Human Resources', 95000.00),
 (5, 'Eve', 'Product Manager', 'Product', 130000.00);
 
--- Q102
+-- Q2
 CREATE TABLE Product (
     ProductID INT,
     ProductName VARCHAR(50),
@@ -27,7 +27,7 @@ INSERT INTO Product VALUES
 (4, 'Yoga Mat', 'Sports', 19.99),
 (5, 'Smart Bulb', 'Electronics', 24.99);
 
--- Q103 & Q108
+-- Q3 & Q8
 CREATE TABLE Products (
     ProductID INT,
     ProductName VARCHAR(50),
@@ -41,7 +41,7 @@ INSERT INTO Products VALUES
 (4, 'Coffee Maker', 'Appliances', 100.00),
 (5, 'Toaster', 'Appliances', 50.00);
 
--- Q104
+-- Q4
 CREATE TABLE AdCampaigns (
     CampaignID INT,
     CompanyName VARCHAR(50),
@@ -55,7 +55,7 @@ INSERT INTO AdCampaigns VALUES
 (4, 'Company D', 'Healthcare', 8000.00),
 (5, 'Company E', 'Retail', 7000.00);
 
--- Q105
+-- Q5
 CREATE TABLE NetflixTitles (
     TitleID INT,
     TitleName VARCHAR(50),
@@ -69,7 +69,7 @@ INSERT INTO NetflixTitles VALUES
 (4, 'Bridgerton', 'Romance', 2020),
 (5, 'Breaking Bad', 'Crime', 2008);
 
--- Q106
+-- Q6
 CREATE TABLE Licenses (
     LicenseID INT,
     SoftwareName VARCHAR(50),
@@ -83,7 +83,7 @@ INSERT INTO Licenses VALUES
 (4, 'Windows 11', 'Pro', 199.99),
 (5, 'Azure', 'Enterprise', 499.99);
 
--- Q107
+-- Q7
 CREATE TABLE Orders (
     OrderID INT,
     CustomerID INT,
@@ -98,7 +98,7 @@ INSERT INTO Orders VALUES
 (4, 104, '2024-12-31', '12:45:00', 200.00),
 (5, 105, '2024-12-31', '11:00:00', 400.00);
 
--- Q109 & Q110
+-- Q9 & Q10
 CREATE TABLE Employees (
     EmployeeID INT,
     EmployeeName VARCHAR(50),
