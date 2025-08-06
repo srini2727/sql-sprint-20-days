@@ -1,0 +1,11 @@
+-- SQL JOIN Exercises (Day 7)
+-- 1. INNER JOIN Orders & Customers
+-- 2. LEFT JOIN Employees & Departments
+-- 3. RIGHT JOIN Products & Categories
+-- 4. FULL OUTER JOIN Students & Results
+-- 5. Employees with no department
+-- 6. Books & Authors join
+-- 7. Self join Employees for manager relationships
+-- 8. Orders with customer details
+-- 9. Sales with product names
+-- 10. Flights with airlines (outer join)
