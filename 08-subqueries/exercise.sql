@@ -1,0 +1,11 @@
+-- SQL Subquery Exercises (Day 8)
+-- 1. Employees earning more than avg salary
+-- 2. Customers with at least one order
+-- 3. Products priced above avg price
+-- 4. Employees in same dept as John
+-- 5. Orders > avg amount
+-- 6. Top 1 salary using subquery
+-- 7. Departments with >2 employees
+-- 8. Customers with no orders
+-- 9. 2nd highest salary
+-- 10. Products in same category as 'Laptop'
